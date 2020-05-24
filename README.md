@@ -1,2 +1,2 @@
 # git-github-tutorial
-Test Repository
+Test Repository. This repository is for learning purpose.
